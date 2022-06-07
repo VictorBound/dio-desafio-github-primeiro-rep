@@ -1,7 +1,7 @@
 # Repositório do Desafio de Projeto de Git/Github da DIO
 Repositório criado para o Desafio de Projeto
 
-Comandos CMD e Git registrados em Comandos úteis.txt
+Comandos CMD e Git registrados em Comandos.txt
 
 Notas sobre as aulas em Notas.txt
 
