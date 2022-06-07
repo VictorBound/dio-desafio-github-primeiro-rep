@@ -1,0 +1,23 @@
+CMD:
+
+cd         | mudar de pasta
+mkdir      | criar pasta
+dir/ls     | lista os conteúdos da pasta
+dir/ls -a  | lista conteúdos escondidos da pasta
+echo       | Escreve algo
+echo >     | Escreve algo e passa para algum arquivo
+clear/cls  | Limpa a tela
+
+GIT:
+
+git init        | Inicializa o git
+git add         | Adiciona o git para o Stage
+git commit      | Realiza o commit
+git clone link  | Clona um repositório do link indicado (colar URL no lugar de 'link')
+git pull        | Puxa mudanças do remoto para o local
+git push        | Empurra mudanças do local para o remoto
+git config      | Gerencia configurações
+git status      | Mostra status atual
+
+git add .  | Adiciona todos os itens da pasta
+-m "texto" | Coloca uma descrição para um commit
