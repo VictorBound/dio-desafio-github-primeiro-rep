@@ -2,6 +2,7 @@
 Repositório criado para o Desafio de Projeto
 
 Comandos CMD e Git registrados em Comandos úteis.txt
+
 Notas sobre as aulas em Notas.txt
 
 ## Links úteis
