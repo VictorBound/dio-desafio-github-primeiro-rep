@@ -7,6 +7,7 @@ dir/ls -a  | lista conteúdos escondidos da pasta
 echo       | Escreve algo
 echo >     | Escreve algo e passa para algum arquivo
 clear/cls  | Limpa a tela
+cat        | Mostra conteúdo de um arquivo
 
 GIT:
 
