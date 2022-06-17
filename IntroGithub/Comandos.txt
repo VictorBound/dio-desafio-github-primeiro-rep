@@ -22,3 +22,9 @@ git status      | Mostra status atual
 
 git add .  | Adiciona todos os itens da pasta
 -m "texto" | Coloca uma descrição para um commit
+
+Adicionar nome:
+git config --global user.name
+
+Retirar nome:
+git config --global --unser user.name
